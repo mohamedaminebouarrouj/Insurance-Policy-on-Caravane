@@ -16,3 +16,6 @@ Guarantee the profitability of an advertising campaign, by formulating a meticul
   
 ### Data:  
 https://github.com/mohamedaminebouarrouj/Insurance-Policy-on-Caravane/blob/master/AssurancExpertsIncFinale.txt
+
+
+  ###### Worked on this project with "D-miners" Teammates : Ramy Kader, Karim Massoudi, Helmi Bellahirech, Maissa Ouni 
